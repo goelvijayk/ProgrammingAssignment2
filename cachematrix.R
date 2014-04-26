@@ -1,5 +1,5 @@
 ## Get inverse of a square invertible matrix, preferably through cache if already computed.
-## assumes square matrix, and invertible matrix input
+## Assumes square matrix, and invertible matrix input
 
 ## Creates blank inverse matrix, as structure
 makeCacheMatrix <- function(x = matrix()) {
